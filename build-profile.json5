@@ -1,0 +1,17 @@
+{
+  "app": {
+    "products": [{
+      "name": "default",
+      "runtimeOS": "HarmonyOS",
+      "targetSdkVersion": "26.0.0",
+      "compatibleSdkVersion": "6.0.0(20)",
+      "buildOption": { "strictMode": { "useNormalizedOHMUrl": true } }
+    }],
+    "buildModeSet": [{ "name": "debug" }, { "name": "release" }]
+  },
+  "modules": [{
+    "name": "devtools",
+    "srcPath": "./devtools",
+    "targets": [{ "name": "default", "applyToProducts": ["default"] }]
+  }]
+}

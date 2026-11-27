@@ -1,0 +1,13 @@
+{
+  "name": "com.ttxz.devtools",
+  "version": "0.0.1",
+  "description": "HarmonyOS 应用内调试工具箱，提供日志、崩溃、性能监控、视觉调试和自定义工具入口。",
+  "author": "TTXZ",
+  "repository": "https://github.com/DriveSpark/HarmonyDevTools",
+  "keywords": ["HarmonyOS", "ArkUI", "devtools", "debug"],
+  "license": "Apache-2.0",
+  "main": "Index.ets",
+  "dependencies": {
+    "libdevtools_hilog.so": "file:./src/main/cpp/types/libdevtools_hilog"
+  }
+}

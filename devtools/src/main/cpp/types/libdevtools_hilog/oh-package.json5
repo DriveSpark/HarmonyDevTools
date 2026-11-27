@@ -1,0 +1,5 @@
+{
+  "name": "libdevtools_hilog.so",
+  "version": "0.0.1",
+  "types": "./Index.d.ts"
+}

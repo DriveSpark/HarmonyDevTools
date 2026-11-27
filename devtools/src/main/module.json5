@@ -1,0 +1,7 @@
+{
+  "module": {
+    "name": "devtools",
+    "type": "har",
+    "deviceTypes": ["phone", "tablet"]
+  }
+}

@@ -1,0 +1,33 @@
+DoKit Android 3.7.11 artwork
+
+Copyright (C) 2017 Beijing Didi Infinity Technology and Development Co.,Ltd. All rights reserved.
+Licensed under the Apache License, Version 2.0. The original license and copyright notice are in devtools_dokit_license.txt in this directory.
+
+Source: https://github.com/didi/DoKit/tree/5500b5041ff3992604212e97bb754acd972d25a8/Android/dokit/src/main/res/mipmap-xxhdpi
+Maven artifact: io.github.didi.dokit:dokitx:3.7.11
+
+The following PNG files were renamed. Their contents are unchanged.
+
+DevTools filename             DoKit filename
+devtools_align_ruler.png      dk_align_ruler.png
+devtools_app_info.png         dk_sys_info.png
+devtools_back.png             title_back.png
+devtools_checked.png          dk_kit_item_checked.png
+devtools_chevron.png          dk_more_icon.png
+devtools_close.png            dk_close_icon_big.png
+devtools_close_white.png      dk_close_white.png
+devtools_cpu.png              dk_cpu.png
+devtools_custom.png           dk_custom.png
+devtools_done.png             dk_icon_complete.png
+devtools_history_up.png       dk_performance_up_arrow.png
+devtools_memory.png           dk_ram.png
+devtools_ruler_close.png      dk_close_icon.png
+devtools_switch_off.png       dk_checkbox_unchecked.png
+devtools_switch_on.png        dk_checkbox_checked.png
+devtools_unchecked.png        dk_kit_item_normal.png
+devtools_developer.png        dk_kit_devlop.png
+devtools_log.png              dk_log_info.png
+devtools_crash.png            dk_crash_catch.png
+devtools_color_picker.png     dk_color_picker.png
+devtools_view_check.png       dk_view_check.png
+devtools_layout_border.png    dk_view_border.png
